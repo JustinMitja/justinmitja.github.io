@@ -2932,7 +2932,7 @@ input, select, textarea {
 			-webkit-flex-direction: row;
 			-ms-flex-direction: row;
 			flex-direction: row;
-			background-color: #2e3450;
+			background-color: #2f2f2f;
 		}
 
 			.spotlights > section > .image {
@@ -3489,7 +3489,7 @@ input, select, textarea {
 		}
 
 		#banner.style2:after {
-			background-color: #8d82c4;
+			background-color: #2e3450;
 		}
 
 		#banner.style3:after {
