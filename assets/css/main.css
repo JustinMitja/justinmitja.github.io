@@ -2994,7 +2994,7 @@ input, select, textarea {
 				-webkit-flex-direction: row-reverse;
 				-ms-flex-direction: row-reverse;
 				flex-direction: row-reverse;
-				background-color: #232323;
+				background-color: #34393f;
 			}
 
 				.spotlights > section:nth-child(2n) > .content {
