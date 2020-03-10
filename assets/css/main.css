@@ -153,11 +153,11 @@ input, select, textarea {
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #9b483d !important;
+			color: #fff !important;
 		}
 
 		a:active {
-			color: #c5c56b !important;
+			color: #fff !important;
 		}
 
 	strong, b {
