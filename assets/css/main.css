@@ -2874,11 +2874,11 @@ input, select, textarea {
 			}
 
 			.tiles article:nth-child(6n - 5):before {
-				background-color: #9b483d;
+				linear-gradient(180deg, #8ea9e8, #c5c56b, #ec8d81, #12bcfe, #9bf1ff)
 			}
 
 			.tiles article:nth-child(6n - 4):before {
-				background-color: #c5c56b;
+				linear-gradient(180deg, #8ea9e8, #c5c56b, #ec8d81, #12bcfe, #9bf1ff)
 			}
 
 			.tiles article:nth-child(6n - 3):before {
