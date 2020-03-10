@@ -2712,7 +2712,6 @@ input, select, textarea {
     background-image: linear-gradient(115deg, #4fcf70, #fad648, #a767e5, #12bcfe, #44ce7b);
     text-align: center;
     margin: 0 auto;
-    position: relative;
     color: #fff;
     text-decoration: none;
     display: block;
