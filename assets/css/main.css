@@ -2664,7 +2664,7 @@ input, select, textarea {
 		input[type="button"].primary,
 		button.primary,
 		.button.primary {
-			background-color: #ffffff;
+			background-image: linear-gradient(150deg, #8ea9e8, #c5c56b, #ec8d81, #12bcfe, #9bf1ff, #8ea9e8, #c5c56b);
 			box-shadow: none;
 			color: #242943;
 		}
@@ -2678,7 +2678,7 @@ input, select, textarea {
 			button.primary:active,
 			.button.primary:hover,
 			.button.primary:active {
-				background-color: #9bf1ff;
+				-webkit-animation: play 1.6s ease-in infinite;
 				color: #242943 !important;
 			}
 
@@ -2708,7 +2708,7 @@ input, select, textarea {
 
 .button-anon-pen {
     width: 200px;
-    background-image: linear-gradient(150deg, #8ea9e8, #c5c56b, #ec8d81, #12bcfe, #9bf1ff);
+    background-image: linear-gradient(150deg, #8ea9e8, #c5c56b, #ec8d81, #12bcfe, #9bf1ff, #8ea9e8, #c5c56b);
     text-align: center;
     margin: 0 auto;
     color: #fff;
